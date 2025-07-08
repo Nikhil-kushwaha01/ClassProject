@@ -1,0 +1,16 @@
+/* navigation */
+/* home section */
+
+
+/* service section */
+#services{
+    flex-direction: column;
+}
+/* clints section */
+#clints{
+    overflow: hidden;
+}
+
+/* Contact us section */
+
+/* footer */
