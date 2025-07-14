@@ -200,7 +200,7 @@ body {
     display: flex;
     padding-left: 500px;
     border: 2px solid gray;
-    background-image: url(image/a2.jpg);
+    background-image: url(Image/OIP.jpg);
     margin: 10px;
     border: 5px solid black;
 
@@ -233,7 +233,7 @@ body {
 }
 
 #contact {
-    background-image: url(image/free.jpg);
+    background-image: url(Image/free.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 550px;
